@@ -1,3 +1,3 @@
 # Create method `parrot` that outputs a given phrase and
 # returns the phrase
-def parrot (bird=parrot, sound=)
+def parrot (bird="Parrot", sound=)
